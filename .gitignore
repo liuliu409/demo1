@@ -2,8 +2,8 @@
 __pycache__/
 *.py[cod]
 *.egg-info/
-*.parquet
-*.xlsx
+
+
 .env
 .venv/
 venv/
@@ -24,4 +24,4 @@ venv/
 *.pyc
 
 # FastAPI export temp
-temp_exports/
+
