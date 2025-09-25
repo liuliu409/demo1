@@ -24,4 +24,13 @@ venv/
 *.pyc
 
 # FastAPI export temp
+tmp/
+export/
+*.xlsx
+*.csv
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
 
