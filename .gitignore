@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.parquet
+*.xlsx
+.env
+.venv/
+venv/
+.envrc
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Byte-compiled
+*.pyo
+*.pyd
+*.pyc
+
+# FastAPI export temp
+temp_exports/
